@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+# basic options
+title: Hi! Welcome to my blog!!
+author: Vinisha D'Souza
+email: vinisha.n.dsouza@gmail.com
+description: A wonderful site
+github_username: vinishadsouza
+
+# Build settings
+markdown: kramdown
+theme: minima
